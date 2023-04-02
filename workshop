@@ -1,0 +1,28 @@
+
+
+
+function App()
+ {
+  return (
+    <div className="App">
+      <h1> Welcome</h1>
+      <h2> Selamat Datang Di Universitas Amikom Yogyakarta</h2>
+      
+      
+      <button  className="btn btn-primary me-2">Simpan</button>
+      <button  className="btn btn-primary me-2">Edit</button>
+      <button  className="btn btn-primary me-2">Hapus</button>
+      <button  className="btn btn-primary me-2">Detail</button>
+
+      
+      
+
+      
+
+    </div>
+  
+  );
+}
+
+export default App;
+
